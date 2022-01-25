@@ -18,5 +18,13 @@
   "directories": {
     "lib": "lib"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasConradHolzer/Zoo-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicholasConradHolzer/Zoo-Tracker/issues"
+  },
+  "homepage": "https://github.com/NicholasConradHolzer/Zoo-Tracker#readme",
   "description": ""
 }
